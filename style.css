@@ -20,3 +20,27 @@
     width: 90%;
     margin:auto;
 }
+.about-cubing {
+    background-color: rgb(107, 81, 255);
+    padding: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.about-cubing-title {
+    text-align: center;
+}
+p {
+    padding-left: 10px;
+}
+.hero-image {
+    background-image: url("./istockphoto-1409329028-612x612\ \(1\).jpg");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-text {
+    color: rgb(0, 247, 255);
+    text-align: center;
+    width: 100%;
+}
