@@ -1,17 +1,17 @@
-.page-title {
+.title {
     text-align: center;
-    font-size: 45px;
+    font-size: 20px;
     border: 5px solid rgb(255, 0, 0);
     border-radius: 100px;
 }
 .cube-info {
-    background: rgb(217, 255, 0);
     font-size: 20px;
-    border: 5px solid;
-    text-align: left;
-    width: 35%;
-    border-radius: 10px;
-    padding: 10px;
+    text-align: center;
+    width: 50%;
+    padding: 20px;
+    padding-bottom: 250px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .two-coloumn {
     display: grid;
@@ -23,14 +23,16 @@
 .about-cubing {
     background-color: rgb(107, 81, 255);
     padding: 1px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 200px;
+    margin-bottom: 30px;
+    padding-bottom: 100px;
+
 }
 .about-cubing-title {
     text-align: center;
 }
 p {
-    padding-left: 10px;
+    padding-left: 100px;
 }
 .hero-image {
     background-image: url("./istockphoto-1409329028-612x612\ \(1\).jpg");
@@ -38,9 +40,40 @@ p {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    margin-top: 80px;
+    padding-bottom: 350px;
 }
 .hero-text {
     color: rgb(0, 247, 255);
+    position: absolute;
     text-align: center;
     width: 100%;
+}
+.intro-buying-cubes {
+    background-color: rgb(255, 255, 0);
+    padding: 1px;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    padding-bottom: 100px;
+}
+.intro-buying-cubes-title {
+    text-align: center;
+}
+.info {
+    font-size: 15px;
+    border: 5px solid;
+    margin-top: 100px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 150px;
+}
+.img {
+    background-image: url("./istockphoto-1409329028-612x612\ \(1\).jpg");
+    height: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+    padding-bottom: 300px;
 }
