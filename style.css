@@ -3,7 +3,9 @@
     font-size: 20px;
     border: 5px solid rgb(255, 0, 0);
     border-radius: 100px;
+    margin-top: 100px;
 }
+
 .cube-info {
     font-size: 20px;
     text-align: center;
@@ -13,6 +15,7 @@
     margin-left: auto;
     margin-right: auto;
 }
+
 .two-coloumn {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -21,6 +24,7 @@
     margin:auto;
     margin-bottom: 50px;
 }
+
 .about-cubing {
     background-color: rgb(107, 81, 255);
     padding: 1px;
@@ -29,12 +33,15 @@
     padding-bottom: 100px;
 
 }
+
 .about-cubing-title {
     text-align: center;
 }
+
 p {
     padding-left: 100px;
 }
+
 .hero-image {
     background-image: url("./istockphoto-1409329028-612x612\ \(1\).jpg");
     height: 400px;
@@ -44,12 +51,14 @@ p {
     margin-top: 80px;
     padding-bottom: 350px;
 }
+
 .hero-text {
     color: rgb(0, 247, 255);
     position: absolute;
     text-align: center;
     width: 100%;
 }
+
 .intro-buying-cubes {
     background-color: rgb(255, 255, 0);
     padding: 1px;
@@ -57,9 +66,11 @@ p {
     margin-bottom: 100px;
     padding-bottom: 100px;
 }
+
 .intro-buying-cubes-title {
     text-align: center;
 }
+
 .info {
     font-size: 15px;
     border: 5px solid;
@@ -69,6 +80,7 @@ p {
     margin-right: auto;
     padding: 150px;
 }
+
 .img {
     background-image: url("./istockphoto-1409329028-612x612\ \(1\).jpg");
     height: 100px;
@@ -78,10 +90,40 @@ p {
     margin-top: 100px;
     padding-bottom: 300px;
 }
+
 .moyu-reasoning {
     background-color: rgb(107, 81, 255);
     padding: 1px;
     margin-top: 80px;
     margin-bottom: 30px;
     padding-bottom: 100px;
+}
+
+body a{
+    font-size: 40px;
+    text-decoration: none;
+    color: blueviolet;
+    border: 5px solid magenta;
+    border-radius: 20px;
+    padding: 7px;
+    text-align: center;
+    margin: auto;
+}
+
+.hero-image2 {
+    background-image: url("./istockphoto-1409329028-612x612\ \(1\).jpg");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 500px;
+}
+
+.hero-text2 {
+    color: rgb(225, 0, 255);
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    font-size: 150px;
+    margin-top: 300px;
 }
