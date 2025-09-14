@@ -69,7 +69,7 @@ body{
 }
 
 .hero-image {
-    background-image: url("./istockphoto-1409329028-612x612\ \(1\).jpg");
+    background-image: url("./pexels-mart-production-8471912.jpg");
     height: 400px;
     background-position: center;
     background-repeat: no-repeat;
@@ -100,8 +100,13 @@ body{
     font-size: 40px;
 }
 
+.unfinished {
+    text-align: center;
+    font-size: 100px;
+}
+
 .img {
-    background-image: url("./istockphoto-1409329028-612x612\ \(1\).jpg");
+    background-image: url("./istockphoto-1409329028-612x612 (1).jpg");
     height: 100px;
     background-position: center;
     background-repeat: no-repeat;
@@ -113,8 +118,8 @@ body{
     margin-right: 50px;
 }
 
-.middle-img {
-    background-image: url("./istockphoto-1409329028-612x612\ \(1\).jpg");
+.moyu-img {
+    background-image: url("./moyu.jpg");
     height: 100px;
     background-position: center;
     background-repeat: no-repeat;
@@ -124,8 +129,19 @@ body{
     border-radius: 0px 60px 0px 60px;
 }
 
-.started-with-cubes-img {
-    background-image: url("./istockphoto-1409329028-612x612\ \(1\).jpg");
+.rubiks-img {
+    background-image: url("./rubiks.jpg");
+    height: 100px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+    padding-bottom: 400px;
+    border-radius: 60px 0px 60px 0px;
+}
+
+.gan-img {
+    background-image: url("./gan.jpg");
     height: 100px;
     background-position: center;
     background-repeat: no-repeat;
@@ -136,7 +152,7 @@ body{
 }
 
 .about-cubing-img {
-    background-image: url("./istockphoto-1409329028-612x612\ \(1\).jpg");
+    background-image: url("./Championnat_de_France_de_Speedcubing_2024_•_Saverne_-_21.jpg");
     height: 100px;
     background-position: center;
     background-repeat: no-repeat;
@@ -146,8 +162,8 @@ body{
     border-radius: 60px 0px 60px 60px;
 }
 
-.recomended-img {
-    background-image: url("./istockphoto-1409329028-612x612\ \(1\).jpg");
+.moyu2-img {
+    background-image: url("./moyu2.jpg");
     height: 100px;
     background-position: center;
     background-repeat: no-repeat;
